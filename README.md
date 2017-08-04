@@ -12,8 +12,8 @@ Notes to Review :
 
 I tried to fix all issues 
 
-Android APK Crushes -->
- - I tried to build my project again after update and fix the issues I hope it works fine for you
+Android APK crashes -->
+ - I tried to build my project again after updating and fixing the issues I hope it works fine for you
 
 first issue --> "The video does not play properly. The same 1 second part of the video keeps repeating throughout."
 
